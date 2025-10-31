@@ -305,4 +305,3 @@ Our vision for this repository:
 
 **Maintained with ❤️ by the open-source community**
 
-*Last Updated: October 2025*
